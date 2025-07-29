@@ -37,7 +37,8 @@
 ### 3. Register app in settings.py
 
 ### 4. Commonly used commands:
-- **python3 manage.py makemigrations accommo** (Generate a migration file)
-- **python3 manage.py migrate** (Apply the migration)
+- **python3 manage.py makemigrations accommo** 
+- **python3 manage.py migrate** 
 - **python3 manage.py createsuperuser**
 - **python3 manage.py runserver**
+- **python3 manage.py shell** (QuerySet API)
